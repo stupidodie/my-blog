@@ -20,10 +20,10 @@ organizations:
     url: https://www.ku.dk
 education:
   courses:
-    - course: Msc in Computer Science
+    - course: MSc in Computer Science
       institution: University of Copenhagen
       year: ""
-    - course: BSc in Computer Science and Technology
+    - course: BEng in Computer Science and Technology
       institution: University of Electronic Science and Technology of China
       year: ""
 superuser: true
@@ -31,3 +31,7 @@ highlight_name: true
 title: Guanran Tai
 email: taiguanran@gmail.com
 ---
+I'm Guanran Tai.
+
+* 🔭 A stduent.
+* 🌱 I’m currently learning Database System and Programming Language.
