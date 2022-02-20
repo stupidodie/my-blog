@@ -2,7 +2,7 @@
 summary: A note while learning c++.
 draft: false
 authors:
-  - GuanranTai
+  - Guanran Tai
 lastmod: 2020-12-13T00:00:00.000Z
 title: " Switch语句case标签的理解"
 subtitle: ""
