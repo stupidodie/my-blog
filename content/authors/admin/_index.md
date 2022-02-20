@@ -1,6 +1,6 @@
 ---
 role: " A graduate student studying computer science at University of Copenhagen."
-avatar_filename: panda.png
+avatar_filename: panda.jpg
 bio: I’m currently interested in Database System and Programming Language.
 interests:
   - Database System
