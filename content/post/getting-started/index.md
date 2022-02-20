@@ -3,7 +3,7 @@ summary: A note while learning c++.
 draft: false
 authors:
   - GuanranTai
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 title: " Switch语句case标签的理解"
 subtitle: ""
 date: 2021-08-13T22:00:00.000Z
@@ -18,7 +18,7 @@ image:
   caption: ""
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: true
 ---
 Switch语句中，每个case没有单独的作用域，而在编译器在编译期间则会把变量的声明所需要的空间分配好。
 
