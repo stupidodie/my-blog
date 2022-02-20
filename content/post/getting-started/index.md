@@ -18,7 +18,7 @@ image:
   caption: ""
   focal_point: ""
   placement: 2
-  preview_only: true
+  preview_only: false
 ---
 Switch语句中，每个case没有单独的作用域，而在编译器在编译期间则会把变量的声明所需要的空间分配好。
 
