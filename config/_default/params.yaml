@@ -78,7 +78,7 @@ features:
   comment:
     provider: disqus
     disqus:
-      shortname: 'guanrantai'
+      shortname: guanrantai
       show_count: true
     commento:
       url: ''
