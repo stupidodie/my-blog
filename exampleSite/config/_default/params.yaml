@@ -131,7 +131,7 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: 'guanrantai'
+    shortname: 'guanran-tai'
     show_count: true
   commento:
     url: ''
