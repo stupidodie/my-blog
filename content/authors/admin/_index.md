@@ -21,10 +21,10 @@ organizations:
 education:
   courses:
     - course: MSc in Computer Science
-      institution: [University of Copenhagen](https://www.ku.dk)
+      institution: University of Copenhagen
       year: ""
     - course: BEng in Computer Science and Technology
-      institution: [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)
+      institution: University of Electronic Science and Technology of China
       year: ""
 superuser: true
 highlight_name: true
