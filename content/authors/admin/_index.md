@@ -33,5 +33,5 @@ email: taiguanran@gmail.com
 ---
 I'm Guanran Tai.
 
-* 🔭 A stduent.
+* 🔭 A student.
 * 🌱 I’m currently learning Database System and Programming Language.
