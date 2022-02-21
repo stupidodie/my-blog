@@ -78,4 +78,4 @@ features:
       shortname: 'guanrantai'
       # Show comment count in page header? (true/false)
       show_count: true
-      commentable: true
+     
