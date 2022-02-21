@@ -71,11 +71,5 @@ sitemap:
   _merge: deep
 
 features:
-  comment:
-    provider: disqus
-    disqus:
-      # Paste the shortname from your Disqus dashboard.
-      shortname: 'guanrantai'
-      # Show comment count in page header? (true/false)
-      show_count: true
+
      

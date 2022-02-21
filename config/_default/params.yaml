@@ -76,9 +76,9 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: disqus
     disqus:
-      shortname: ''
+      shortname: 'guanrantai'
       show_count: true
     commento:
       url: ''
