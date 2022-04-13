@@ -12,6 +12,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/stupidodie
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/guanran-tai-01b5511b8
+    icon_pack: fab
+    icon: linkedin
   - icon: facebook
     icon_pack: fab
     link: https://www.facebook.com/guanran.tai.3
