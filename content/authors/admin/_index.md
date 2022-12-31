@@ -1,10 +1,11 @@
 ---
 role: " A graduate student studying computer science at University of Copenhagen."
 avatar_filename: avatar.jpg
-bio: I’m currently interested in Database System and Programming Language.
+bio: I’m currently interested in Functional Programming and Distributed System.
 interests:
   - Database System
   - Programming Language
+  - Distributed System
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,4 +40,4 @@ email: taiguanran@gmail.com
 I'm Guanran Tai.
 
 * 🔭 A student.
-* 🌱 I’m currently learning Database System and Programming Language.
+* 🌱 I’m currently interested in Functional Programming and Distributed System.
